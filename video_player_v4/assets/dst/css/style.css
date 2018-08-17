@@ -1,0 +1,32 @@
+html {
+  font-size: 62.5%;
+  font-family: "HelveticaNeue", "Helvatica", "Arial";
+  font-size: 20px; }
+
+video {
+  max-width: 730px;
+  height: auto; }
+
+a {
+  color: #FFA500;
+  text-decoration: none; }
+
+p {
+  margin-bottom: 30px; }
+  @media (min-width: 768px) {
+    p {
+      margin-bottom: 35px; } }
+
+.page-content {
+  max-width: 730px;
+  margin-left: auto;
+  margin-right: auto; }
+
+.video-element {
+  margin-bottom: 35px; }
+
+.video-caption {
+  padding-left: 25px;
+  padding-right: 25px; }
+
+/*# sourceMappingURL=style.css.map */

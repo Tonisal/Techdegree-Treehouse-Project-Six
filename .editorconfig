@@ -1,0 +1,9 @@
+# CSS-Files
+[*.{css,scss}]
+indent_style = tab
+indent_size = 4
+
+# HTML-Files
+[*.html]
+indent_style = tab
+indent_size = 4

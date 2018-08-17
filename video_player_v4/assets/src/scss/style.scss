@@ -1,0 +1,40 @@
+@import 'variables';
+
+html {
+	font-size: 62.5%;
+	font-family: $font-family-base;
+	font-size: $font-size-normal;
+}
+
+video {
+	max-width: 100%;
+	height: auto;
+}
+
+a {
+	color: $link-color;
+	text-decoration: none;
+}
+
+p {
+	margin-bottom: 30px;
+
+	@media(min-width: $breakpoint-large) {
+		margin-bottom: 35px;
+	}
+}
+
+.page-content {
+	max-width: 730px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.video-element {
+	margin-bottom: 35px;
+}
+
+.video-caption {
+	padding-left: 25px;
+	padding-right: 25px;
+}
