@@ -1,12 +1,10 @@
 
 $black: #fff;
 $orange: #FFA500;
-
-
+$highlighted-text-color: $orange;
 $text-color: $black;
-$link-color: $orange;
 
-$breakpoint-large: 768px;
+$breakpoint-large-screen: 768px;
 
 $font-family-base: "HelveticaNeue", "Helvatica", "Arial";
-$font-size-normal: 20px;
+$font-size-normal: 2rem;

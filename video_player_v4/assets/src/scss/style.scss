@@ -3,25 +3,19 @@
 html {
 	font-size: 62.5%;
 	font-family: $font-family-base;
-	font-size: $font-size-normal;
-}
-
-video {
-	max-width: 100%;
-	height: auto;
-}
-
-a {
-	color: $link-color;
-	text-decoration: none;
 }
 
 p {
 	margin-bottom: 30px;
+	font-size: $font-size-normal;
 
-	@media(min-width: $breakpoint-large) {
+	@media(min-width: $breakpoint-large-screen) {
 		margin-bottom: 35px;
 	}
+}
+
+span {
+	line-height: 1.5;
 }
 
 .page-content {
@@ -37,4 +31,40 @@ p {
 .video-caption {
 	padding-left: 25px;
 	padding-right: 25px;
+}
+
+.mejs__container {
+	width: 730px !important;
+	max-width: 100% !important;
+	height: 0!important;
+	padding-top: 56.25% !important;
+}
+
+.mejs__container-fullscreen.mejs__container {
+	width: 100% !important;
+	height: 100% !important;
+}
+
+.mejs__overlay.mejs__layer.mejs__overlay-play {
+	width: 100% !important;
+	height: 100% !important;
+}
+
+video {
+	height: 100% !important;
+	width: 100% !important;
+}
+
+.highlightedText {
+	color: $highlighted-text-color;
+}
+
+
+//Change color of controls
+
+.mejs__controls {
+	.mejs__duration,
+	.mejs__currenttime {
+		color: $highlighted-text-color;
+	}
 }

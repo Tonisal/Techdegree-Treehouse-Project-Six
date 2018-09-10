@@ -1,21 +1,16 @@
 html {
   font-size: 62.5%;
-  font-family: "HelveticaNeue", "Helvatica", "Arial";
-  font-size: 20px; }
-
-video {
-  max-width: 730px;
-  height: auto; }
-
-a {
-  color: #FFA500;
-  text-decoration: none; }
+  font-family: "HelveticaNeue", "Helvatica", "Arial"; }
 
 p {
-  margin-bottom: 30px; }
+  margin-bottom: 30px;
+  font-size: 2rem; }
   @media (min-width: 768px) {
     p {
       margin-bottom: 35px; } }
+
+span {
+  line-height: 1.5; }
 
 .page-content {
   max-width: 730px;
@@ -28,5 +23,30 @@ p {
 .video-caption {
   padding-left: 25px;
   padding-right: 25px; }
+
+.mejs__container {
+  width: 730px !important;
+  max-width: 100% !important;
+  height: 0 !important;
+  padding-top: 56.25% !important; }
+
+.mejs__container-fullscreen.mejs__container {
+  width: 100% !important;
+  height: 100% !important; }
+
+.mejs__overlay.mejs__layer.mejs__overlay-play {
+  width: 100% !important;
+  height: 100% !important; }
+
+video {
+  height: 100% !important;
+  width: 100% !important; }
+
+.highlightedText {
+  color: #FFA500; }
+
+.mejs__controls .mejs__duration,
+.mejs__controls .mejs__currenttime {
+  color: #FFA500; }
 
 /*# sourceMappingURL=style.css.map */
