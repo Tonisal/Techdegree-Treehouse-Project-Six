@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ef90cc-7d64-42b9-8155-eba203ef083c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/video_player_v4/assets/dst/css/style.css" afterPath="$PROJECT_DIR$/video_player_v4/assets/dst/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/video_player_v4/assets/dst/css/style.css.map" afterPath="$PROJECT_DIR$/video_player_v4/assets/dst/css/style.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/video_player_v4/assets/dst/js/scripts.js" afterPath="$PROJECT_DIR$/video_player_v4/assets/dst/js/scripts.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/video_player_v4/assets/src/scss/style.scss" afterPath="$PROJECT_DIR$/video_player_v4/assets/src/scss/style.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/video_player_v4/assets/src/scss/variables.scss" afterPath="$PROJECT_DIR$/video_player_v4/assets/src/scss/variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/video_player_v4/index.html" afterPath="$PROJECT_DIR$/video_player_v4/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -87,8 +80,8 @@
       <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/video_player_v4/assets/src/scss/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="65" column="20" lean-forward="true" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+            <state relative-caret-position="330">
+              <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -109,7 +102,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
-                <caret line="0" column="34" lean-forward="true" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="35" />
+                <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="35" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -460,12 +453,12 @@
       <option name="presentableId" value="Default" />
       <updated>1534490622434</updated>
       <workItem from="1534490623798" duration="11666000" />
-      <workItem from="1536590051099" duration="8163000" />
+      <workItem from="1536590051099" duration="8266000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19829000" />
+    <option name="totallyTimeSpent" value="19932000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="90" y="23" width="1777" height="977" extended-state="0" />
@@ -652,7 +645,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
-            <caret line="0" column="34" lean-forward="true" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="35" />
+            <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="35" />
             <folding />
           </first_editor>
           <second_editor>
@@ -714,8 +707,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/video_player_v4/assets/src/scss/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="65" column="20" lean-forward="true" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+        <state relative-caret-position="330">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
           <folding />
         </state>
       </provider>

@@ -6,11 +6,11 @@ html {
 }
 
 p {
-	margin-bottom: 30px;
+	margin-bottom: 3rem;
 	font-size: $font-size-normal;
 
 	@media(min-width: $breakpoint-large-screen) {
-		margin-bottom: 35px;
+		margin-bottom: 3.5rem;
 	}
 }
 
@@ -25,13 +25,15 @@ span {
 }
 
 .video-element {
-	margin-bottom: 35px;
+	margin-bottom: 3.5rem;
 }
 
 .video-caption {
-	padding-left: 25px;
-	padding-right: 25px;
+	padding-left: 2.5rem;
+	padding-right: 2.5rem;
 }
+
+//Styles to overwrite styles from media-element.js
 
 .mejs__container {
 	width: 730px !important;

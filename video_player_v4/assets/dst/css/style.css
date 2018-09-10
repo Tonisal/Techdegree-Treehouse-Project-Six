@@ -3,11 +3,11 @@ html {
   font-family: "HelveticaNeue", "Helvatica", "Arial"; }
 
 p {
-  margin-bottom: 30px;
+  margin-bottom: 3rem;
   font-size: 2rem; }
   @media (min-width: 768px) {
     p {
-      margin-bottom: 35px; } }
+      margin-bottom: 3.5rem; } }
 
 span {
   line-height: 1.5; }
@@ -18,11 +18,11 @@ span {
   margin-right: auto; }
 
 .video-element {
-  margin-bottom: 35px; }
+  margin-bottom: 3.5rem; }
 
 .video-caption {
-  padding-left: 25px;
-  padding-right: 25px; }
+  padding-left: 2.5rem;
+  padding-right: 2.5rem; }
 
 .mejs__container {
   width: 730px !important;
